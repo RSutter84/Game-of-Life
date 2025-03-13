@@ -40,4 +40,4 @@ function countNeighbors(x, y) {
 ```
 
 ## p5 Sketch Link:
-[[https://editor.p5js.org/rsutter/full/llwXjHgxG](https://editor.p5js.org/rsutter/full/S1lUH2hNO)](https://editor.p5js.org/rsutter/full/Fpxa2KSYn)
+https://editor.p5js.org/rsutter/full/S1lUH2hNO
